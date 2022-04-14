@@ -2,6 +2,8 @@ MEAN stack Login page
 
 This project has been created by Badea khalboos
 
+First extract the 'Frontend.zip' file
+
 To start the app
 
 First open the terminal 
