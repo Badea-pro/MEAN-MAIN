@@ -4,7 +4,7 @@ This project has been created by Badea khalboos
 
 Open the terminal and type 'ng add @angular/material'
 
-add new file and name it as '.editorconfig'
+add new file into Frontend and name it as '.editorconfig'
 and type inside it 
 /
 root = true
